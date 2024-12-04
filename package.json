@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "bootstrap-icons": "^1.11.3",
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
     "react-fontawesome": "^1.7.1"
   }
 }
